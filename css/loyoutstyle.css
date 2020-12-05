@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    
+    
+}
+header{
+    background-color: #202333;
+    padding: 13px 0;
+    border: 0;
+    
+    position: relative;
+    z-index: 2;
+    
+}
+.letra{
+    margin-top: -50px;
+    margin-left: 1000px;
+    color: white;
+    font-size: 19px;
+}
+.logo{
+    margin-left: 28px;
+    margin-top: -4px;
+    
+    
+}
+.footer{
+    padding: 10px 0;
+    background:black ;
+    color: white;
+    padding-top: 13px;
+    margin-top: 4px;
+    text-align: center;
+    opacity: 87%;
+}
+iframe {
+    border: none;
+}
